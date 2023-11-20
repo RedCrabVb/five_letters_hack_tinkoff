@@ -11,3 +11,6 @@
 ```
 
 Затем запустить скрипт create_sql.py
+
+
+Подробнее про работу тут: https://vk.com/@aboroday_1-kak-haknut-tinkoff-prilozhenie-ili-moe-prof-vygoranie
